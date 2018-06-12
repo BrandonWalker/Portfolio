@@ -1,7 +1,7 @@
 import java.math.*;
 
 public class p13 {
-	//find first ten digits of this 150 digit number
+	//Work out the first ten digits of the sum of the following one-hundred 50-digit numbers.
 	public static void main(String[] args)
 	{
 		long begin = System.currentTimeMillis();
